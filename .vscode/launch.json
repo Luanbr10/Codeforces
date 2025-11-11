@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "/workspaces/Codeforces/A1/Lista-Exercicios-LEE/LEE-01/E",
+      "program": "/workspaces/Codeforces/A1/Lista-Exercicios-LEE/LEE-01/E/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
