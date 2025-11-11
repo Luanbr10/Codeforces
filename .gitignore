@@ -54,5 +54,5 @@ Mkfile.old
 dkms.conf
 atividade_alunos
 
-#ignorar a pasta de arquivos do vscode
+# Ignora a pasta de configurações do VS Code
 /.vscode
