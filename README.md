@@ -16,6 +16,6 @@ A organização do repositório segue a estrutura da disciplina, que é dividida
 
 ## 📂 Estrutura das Pastas
 
-Cada problema é contido em sua própria pasta, que inclui o código-fonte (`.cpp`) e uma imagem do enunciado (`.png`).
+Cada problema é contido em sua própria pasta, que inclui o código-fonte (`.cpp`) e um arquivo com o enunciado (`.pdf`).
 
 * **Meu Perfil no Codeforces:** [SeuUsername](https://codeforces.com/profile/luanbrgs)
