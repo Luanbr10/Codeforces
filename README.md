@@ -13,6 +13,7 @@ A organização do repositório segue a estrutura da disciplina, que é dividida
 * **`A1` / `A2`:** Pastas referentes ao primeiro e segundo bimestre, respectivamente.
 * **`LEA` (Lista de Exercício em Sala):** Listas resolvidas em sala, com tempo limite de 1h 40min.
 * **`LEE` (Lista de Exercício em Casa):** Listas com prazo de 5 dias para resolução.
+* **`AS` (Prova):** Prova resolvida em sala, com tempo limite de 1h 40min.
 * **`Contests`:** Pasta dedicada a soluções de competições e contests oficiais da plataforma Codeforces.
 
 ## 📂 Estrutura das Pastas
