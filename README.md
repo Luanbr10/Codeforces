@@ -1,6 +1,6 @@
 # 🚀 Soluções de Codeforces - TAA
 
-Este repositório é minha coleção pessoal de soluções para problemas do [Codeforces](https://codeforces.com/). Ele é usado para os estudos da disciplina de **Técnicas de Programação e Análise de Algoritmos (TAA)**.
+Este repositório é minha coleção pessoal de soluções para problemas do [Codeforces](https://codeforces.com/). Ele é e está sendo usado para os estudos da disciplina de **Técnicas de Programação e Análise de Algoritmos (TAA)**.
 
 Todas as soluções estão implementadas em **C++**.
 
